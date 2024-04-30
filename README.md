@@ -7,7 +7,7 @@
 - Display basic statistics (mean, median, etc.) for numerical columns.
 - Count unique values in a categorical column.
 
-## Data Visualization with Matplotlib/Seaborn:
+## Data Visualization with Matplotlib:
 - Create a histogram to visualize the distribution of a numerical variable.
 - Plot a bar chart to show the frequency of categories in a categorical variable.
 - Create a scatter plot to visualize the relationship between two numerical variables.
